@@ -6,6 +6,9 @@ sidebar_label: Artikeldaten hochladen
 
 ## Format für das Hochladen der CSV Datei
 
+**Dateiformat**: CSV <br>
+**Seperator**: ; <br>
+**Encoding**: UTF-8 <br>
 **Spalte A**: Eine eindeutige ID für das Rückspielen ins ERP-System. <br>
 **Spalte B**: Produkt Information (Motorradmodel, Baujahr etc.).
 

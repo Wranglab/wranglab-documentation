@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Motorrad Web App": ["einleitung", "artikeldaten-hochladen", "artikeldaten-strukturieren", "epids-erzeugen"]
+    "Motorrad Web App": ["einleitung", "artikeldaten-hochladen", "epids-erzeugen"]
   },
   "docs-other": {
     "API Documentation": ["api"]
