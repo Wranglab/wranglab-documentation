@@ -3,6 +3,6 @@
     "Motorrad Web App": ["einleitung", "artikeldaten-hochladen", "epids-erzeugen"]
   },
   "docs-other": {
-    "API Documentation": ["api"]
+    "API Dokumentation": ["api", "daten_upload", "get_progress", "download_epid"]
   }
 }
