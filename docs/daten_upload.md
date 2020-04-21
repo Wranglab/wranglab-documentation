@@ -4,24 +4,23 @@ title: Artikeldaten hochladen
 sidebar_label: Artikeldaten hochladen
 ---
 
-Das hochladen der Daten löst automatisch den Prozess des EPID erzeugen aus.
+>Das Hochladen der Daten löst automatisch den Prozess des EPID erzeugen aus.
 
 ## API Endpoint
-- __POST__ Methode
 ```
-api/v1/upload/<api_token>
+POST: api/v1/upload/<api_token>
 ```
 
 ## Request Body
 ```json
 { "data": [
         {
-            "articlenumber": "4",
+            "articlenumber": "1",
             "input_text": "Aprilia Atlantic 500 Sprint 2004 - 2015"
         },
         {
-            "articlenumber": "4",
-            "input_text": "Aprilia Atlantic 500 Sprint 2004 - 2015"
+            "articlenumber": "2",
+            "input_text": "Beta Alp 4.0 350 2004-2015"
         }
     ]
 }
@@ -29,6 +28,7 @@ api/v1/upload/<api_token>
 
 ## Erfolgreiche Response
 - Code __201__
+- JSON Objekt
 ```json
 {
     "status": "SUCCESS",

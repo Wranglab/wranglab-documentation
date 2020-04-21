@@ -5,13 +5,13 @@ sidebar_label: Fortschritt abfragen
 ---
 
 ## API Endpoint
-- __GET__ Methode
 ```
-api/v1/get/progress/<api_token>
+GET: api/v1/get/progress/<api_token>
 ```
 
 ## Response
 - Code __200__
+- Liste an JSON Objekten
 ```json
 [
     {
@@ -36,6 +36,7 @@ api/v1/get/progress/<api_token>
 
 ## Response abgeschlossener Aufträge
 - Code __200__
+- Liste an JSON Objekten
 ```json
 [
     {
