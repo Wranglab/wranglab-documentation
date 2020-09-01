@@ -4,7 +4,9 @@ title: Artikeldaten hochladen
 sidebar_label: Artikeldaten hochladen
 ---
 
-## Format für das Hochladen der CSV Datei
+## Artikeldaten hochladen per CSV Datei
+
+### CSV Datei Format
 
 **Dateiformat**: CSV <br>
 **Seperator**: ; <br>
@@ -32,12 +34,29 @@ Spalte A „articel_number; Spalte B „input_text“. Außerdem muss die Datei 
 | 12             | Kawasaki Z 750 GP Uni Trak 1983               |
 | 13             | KTM EXC 400 Racing 200                        |
 
-## CSV Datei hochladen
+### CSV Datei hochladen
 
 ![upload-file](assets/upload-file.png)
 
 ![upload-file-2](assets/upload-file-2.png)
 
-## Ergebnis anzeigen
+### Ergebnis anzeigen
 
 ![upload-file-result](assets/upload-file-result.png)
+
+## Artikeldaten aus eBay importieren
+
+### eBay Import starten
+Klicke den Button *EBAY IMPORT**
+![start-ebay-import-1](assets/start-ebay-import-1.png)
+
+Wenn dein eBay Account bereitsverknüft ist kannst nun im nächsten Fenster den Import starten.
+Dann werden alle deine eBay Artikeltitel von deinem eBay Account in Wranglab importiert.
+Das kann bis zu 1h dauern.
+![start-ebay-import-2](assets/start-ebay-import-2.png)
+
+![start-ebay-import-3](assets/start-ebay-import-3.png)
+
+Nach dem erfolgreichen Import werden die eBay Artikeldatei in der Übersicht angezeigt.
+
+![start-ebay-import-4](assets/start-ebay-import-4.png)

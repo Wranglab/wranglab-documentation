@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Motorrad Web App": ["einleitung", "artikeldaten-hochladen", "epids-erzeugen"]
+    "Motorrad Web App": ["einleitung", "connect-ebay","artikeldaten-hochladen", "epids-erzeugen"]
   },
   "docs-other": {
     "API Dokumentation": ["api", "daten_upload", "get_progress", "download_epid"]

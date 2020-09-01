@@ -13,6 +13,10 @@
         "title": "Artikeldaten hochladen",
         "sidebar_label": "Artikeldaten hochladen"
       },
+      "connect-ebay": {
+        "title": "eBay Account verbinden",
+        "sidebar_label": "eBay Account verbinden"
+      },
       "daten_upload": {
         "title": "Artikeldaten hochladen",
         "sidebar_label": "Artikeldaten hochladen"
