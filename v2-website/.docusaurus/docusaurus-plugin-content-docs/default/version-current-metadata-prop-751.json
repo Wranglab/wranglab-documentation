@@ -13,17 +13,17 @@
           {
             "type": "link",
             "label": "Einleitung",
-            "href": "/"
+            "href": "/wranglab-documentation/"
           },
           {
             "type": "link",
             "label": "eBay Account verbinden",
-            "href": "/connect-ebay"
+            "href": "/wranglab-documentation/connect-ebay"
           },
           {
             "type": "link",
             "label": "Abonnement",
-            "href": "/subscription"
+            "href": "/wranglab-documentation/subscription"
           }
         ]
       },
@@ -35,34 +35,34 @@
           {
             "type": "link",
             "label": "Einleitung",
-            "href": "/api"
+            "href": "/wranglab-documentation/api"
           },
           {
             "type": "link",
             "label": "Artikeldaten hochladen",
-            "href": "/daten_upload"
+            "href": "/wranglab-documentation/daten_upload"
           },
           {
             "type": "link",
             "label": "Fortschritt abfragen",
-            "href": "/get_progress"
+            "href": "/wranglab-documentation/get_progress"
           },
           {
             "type": "link",
             "label": "EPIDs runterladen",
-            "href": "/download_epid"
+            "href": "/wranglab-documentation/download_epid"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/api": "docs",
-    "/connect-ebay": "docs",
-    "/daten_upload": "docs",
-    "/download_epid": "docs",
-    "/": "docs",
-    "/get_progress": "docs",
-    "/subscription": "docs"
+    "/wranglab-documentation/api": "docs",
+    "/wranglab-documentation/connect-ebay": "docs",
+    "/wranglab-documentation/daten_upload": "docs",
+    "/wranglab-documentation/download_epid": "docs",
+    "/wranglab-documentation/": "docs",
+    "/wranglab-documentation/get_progress": "docs",
+    "/wranglab-documentation/subscription": "docs"
   }
 }

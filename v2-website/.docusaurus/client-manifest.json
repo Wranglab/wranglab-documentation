@@ -1,0 +1,218 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      3,
+      14,
+      1
+    ],
+    "styles": [
+      1,
+      2,
+      3,
+      12,
+      13,
+      14,
+      0
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      14,
+      2
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      3
+    ],
+    "@site/docs/connect-ebay.md": [
+      4
+    ],
+    "@site/docs/download_epid.md": [
+      5
+    ],
+    "@site/docs/api.md": [
+      6
+    ],
+    "@site/docs/einleitung.md": [
+      7
+    ],
+    "@site/docs/subscription.md": [
+      8
+    ],
+    "~docs/default/version-current-metadata-prop-751.json": [
+      9
+    ],
+    "@site/docs/get_progress.md": [
+      10
+    ],
+    "@site/docs/daten_upload.md": [
+      11
+    ],
+    "main": [
+      0,
+      13,
+      12
+    ],
+    "runtime~main": [
+      0,
+      12,
+      13
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      14
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.a000d983.css",
+          "hash": "f11d18f3bf2d94d6a380",
+          "publicPath": "/wranglab-documentation/styles.a000d983.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.3b0661ec.js",
+          "hash": "f11d18f3bf2d94d6a380",
+          "publicPath": "/wranglab-documentation/styles.3b0661ec.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.41302886.js",
+          "hash": "b1f151bdaad91cea18a0",
+          "publicPath": "/wranglab-documentation/1.41302886.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.31593074.js",
+          "hash": "20382fa26db7b9003dd8",
+          "publicPath": "/wranglab-documentation/2.31593074.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "17896441.660ebe43.js",
+          "hash": "e99d9ab67b5f30e68d22",
+          "publicPath": "/wranglab-documentation/17896441.660ebe43.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "2ad91f22.9381538e.js",
+          "hash": "e0870e3bcd02d3838996",
+          "publicPath": "/wranglab-documentation/2ad91f22.9381538e.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "50ab7e8c.a86ce06d.js",
+          "hash": "536810eb30be0ba0e5ed",
+          "publicPath": "/wranglab-documentation/50ab7e8c.a86ce06d.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "5fbc5cf1.435b64b3.js",
+          "hash": "a87366f5cce3bde77781",
+          "publicPath": "/wranglab-documentation/5fbc5cf1.435b64b3.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "61f2eac5.7d8084f3.js",
+          "hash": "56e0a6235a4c0a7f23df",
+          "publicPath": "/wranglab-documentation/61f2eac5.7d8084f3.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "84b55735.9d9e7543.js",
+          "hash": "0a8aaca8cd2775432517",
+          "publicPath": "/wranglab-documentation/84b55735.9d9e7543.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "935f2afb.66d208f7.js",
+          "hash": "d22fcea74d9ddf908e09",
+          "publicPath": "/wranglab-documentation/935f2afb.66d208f7.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "a0fea8b5.dccb491e.js",
+          "hash": "21074e7873c8392d5049",
+          "publicPath": "/wranglab-documentation/a0fea8b5.dccb491e.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "f74a1dae.47c6a6f5.js",
+          "hash": "8240d1e4d75d9c34cab9",
+          "publicPath": "/wranglab-documentation/f74a1dae.47c6a6f5.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "main.ba1c6f27.js",
+          "hash": "7a848695ffb812ff410b",
+          "publicPath": "/wranglab-documentation/main.ba1c6f27.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "runtime~main.64271544.js",
+          "hash": "663e2bbe8842a450633d",
+          "publicPath": "/wranglab-documentation/runtime~main.64271544.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "14.b5e5aa42.js",
+          "hash": "2289a588dd16615a5f14",
+          "publicPath": "/wranglab-documentation/14.b5e5aa42.js"
+        }
+      ]
+    }
+  }
+}

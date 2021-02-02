@@ -3,88 +3,43 @@ import React from 'react';
 import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
-  path: '/__docusaurus/debug',
-  component: ComponentCreator('/__docusaurus/debug','3d6'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/config',
-  component: ComponentCreator('/__docusaurus/debug/config','914'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/content',
-  component: ComponentCreator('/__docusaurus/debug/content','c28'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/globalData',
-  component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/metadata',
-  component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/registry',
-  component: ComponentCreator('/__docusaurus/debug/registry','0da'),
-  exact: true,
-},
-{
-  path: '/__docusaurus/debug/routes',
-  component: ComponentCreator('/__docusaurus/debug/routes','244'),
-  exact: true,
-},
-{
-  path: '/',
-  component: ComponentCreator('/','828'),
+  path: '/wranglab-documentation/',
+  component: ComponentCreator('/wranglab-documentation/','6f3'),
   
   routes: [
 {
-  path: '/',
-  component: ComponentCreator('/','891'),
+  path: '/wranglab-documentation/',
+  component: ComponentCreator('/wranglab-documentation/','f79'),
   exact: true,
 },
 {
-  path: '/api',
-  component: ComponentCreator('/api','689'),
+  path: '/wranglab-documentation/api',
+  component: ComponentCreator('/wranglab-documentation/api','28d'),
   exact: true,
 },
 {
-  path: '/artikeldaten-hochladen',
-  component: ComponentCreator('/artikeldaten-hochladen','b19'),
+  path: '/wranglab-documentation/connect-ebay',
+  component: ComponentCreator('/wranglab-documentation/connect-ebay','6e7'),
   exact: true,
 },
 {
-  path: '/connect-ebay',
-  component: ComponentCreator('/connect-ebay','f08'),
+  path: '/wranglab-documentation/daten_upload',
+  component: ComponentCreator('/wranglab-documentation/daten_upload','95b'),
   exact: true,
 },
 {
-  path: '/daten_upload',
-  component: ComponentCreator('/daten_upload','058'),
+  path: '/wranglab-documentation/download_epid',
+  component: ComponentCreator('/wranglab-documentation/download_epid','1d3'),
   exact: true,
 },
 {
-  path: '/download_epid',
-  component: ComponentCreator('/download_epid','d94'),
+  path: '/wranglab-documentation/get_progress',
+  component: ComponentCreator('/wranglab-documentation/get_progress','7c9'),
   exact: true,
 },
 {
-  path: '/epids-erzeugen',
-  component: ComponentCreator('/epids-erzeugen','37d'),
-  exact: true,
-},
-{
-  path: '/get_progress',
-  component: ComponentCreator('/get_progress','417'),
-  exact: true,
-},
-{
-  path: '/subscription',
-  component: ComponentCreator('/subscription','018'),
+  path: '/wranglab-documentation/subscription',
+  component: ComponentCreator('/wranglab-documentation/subscription','d10'),
   exact: true,
 },
 ]

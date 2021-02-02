@@ -27,15 +27,3 @@ Nun erhältst du eine E-Mail von uns um diese zu bestätigen.
 
 ### Geschafft
 Ab hier startet deine 3-monatige kostenlose Testphase. Innerhalb dieser Zeit kannst du alle Funktionen der App ohne Einschr&auml;nkungen nutzen.
-
-
-<!--
-## Zahlungsmethode hinzufügen
-
-![abonnement-inaktiv](assets/abonnement-inaktiv.png)
-
-Nach erfolgreicher Übermittlung der Zahlungsinformation, kann der Account
-benutzt werden. Es können für bis zu 3 Mio. Artikel Fahrzeugverwendungslisten erstellt werden.
-
-![abonnement-aktiv](assets/abonnement-aktiv.png)
--->

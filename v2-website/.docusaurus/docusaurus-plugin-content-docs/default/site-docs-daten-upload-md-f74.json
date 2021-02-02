@@ -6,17 +6,17 @@
   "description": "Das Hochladen der Daten löst automatisch den Prozess des EPID erzeugen aus.",
   "source": "@site/docs/daten_upload.md",
   "slug": "/daten_upload",
-  "permalink": "/daten_upload",
+  "permalink": "/wranglab-documentation/daten_upload",
   "version": "current",
-  "lastUpdatedAt": 1539502055,
+  "lastUpdatedAt": 1612253745,
   "sidebar_label": "Artikeldaten hochladen",
   "sidebar": "docs",
   "previous": {
     "title": "Einleitung",
-    "permalink": "/api"
+    "permalink": "/wranglab-documentation/api"
   },
   "next": {
     "title": "Fortschritt abfragen",
-    "permalink": "/get_progress"
+    "permalink": "/wranglab-documentation/get_progress"
   }
 }

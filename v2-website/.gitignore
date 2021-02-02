@@ -75,3 +75,5 @@ fabric.properties
 v1-website/node-modules/
 v2-website/node-modules/
 v2-website/build/
+build/
+node_modules
