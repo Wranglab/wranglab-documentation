@@ -6,13 +6,13 @@
   "description": "Einloggen",
   "source": "@site/docs/einleitung.md",
   "slug": "/",
-  "permalink": "/wranglab-documentation/",
+  "permalink": "/",
   "version": "current",
-  "lastUpdatedAt": 1612253745,
+  "lastUpdatedAt": 1612271783,
   "sidebar_label": "Einleitung",
   "sidebar": "docs",
   "next": {
     "title": "eBay Account verbinden",
-    "permalink": "/wranglab-documentation/connect-ebay"
+    "permalink": "/connect-ebay"
   }
 }

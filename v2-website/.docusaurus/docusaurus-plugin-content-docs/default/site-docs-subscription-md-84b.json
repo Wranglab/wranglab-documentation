@@ -6,17 +6,17 @@
   "description": "Um Wranglab.io auch nach der kostenlosen Testphase weiter nutzen zu können, ist es notwendig ein Abonnement abzuschlie&szlig;en.",
   "source": "@site/docs/subscription.md",
   "slug": "/subscription",
-  "permalink": "/wranglab-documentation/subscription",
+  "permalink": "/subscription",
   "version": "current",
   "lastUpdatedAt": 1612253745,
   "sidebar_label": "Abonnement",
   "sidebar": "docs",
   "previous": {
     "title": "eBay Account verbinden",
-    "permalink": "/wranglab-documentation/connect-ebay"
+    "permalink": "/connect-ebay"
   },
   "next": {
     "title": "Einleitung",
-    "permalink": "/wranglab-documentation/api"
+    "permalink": "/api"
   }
 }

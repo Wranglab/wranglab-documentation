@@ -6,13 +6,13 @@
   "description": "Abfrage aller erzeugten EPID Datenpakete",
   "source": "@site/docs/download_epid.md",
   "slug": "/download_epid",
-  "permalink": "/wranglab-documentation/download_epid",
+  "permalink": "/download_epid",
   "version": "current",
   "lastUpdatedAt": 1612253745,
   "sidebar_label": "EPIDs runterladen",
   "sidebar": "docs",
   "previous": {
     "title": "Fortschritt abfragen",
-    "permalink": "/wranglab-documentation/get_progress"
+    "permalink": "/get_progress"
   }
 }

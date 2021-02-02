@@ -6,17 +6,17 @@
   "description": "API Endpoint",
   "source": "@site/docs/get_progress.md",
   "slug": "/get_progress",
-  "permalink": "/wranglab-documentation/get_progress",
+  "permalink": "/get_progress",
   "version": "current",
   "lastUpdatedAt": 1612253745,
   "sidebar_label": "Fortschritt abfragen",
   "sidebar": "docs",
   "previous": {
     "title": "Artikeldaten hochladen",
-    "permalink": "/wranglab-documentation/daten_upload"
+    "permalink": "/daten_upload"
   },
   "next": {
     "title": "EPIDs runterladen",
-    "permalink": "/wranglab-documentation/download_epid"
+    "permalink": "/download_epid"
   }
 }

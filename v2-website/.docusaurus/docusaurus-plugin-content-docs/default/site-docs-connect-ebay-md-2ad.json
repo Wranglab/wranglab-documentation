@@ -6,17 +6,17 @@
   "description": "Wranglab bietet dir die Möglichkeit, vollkommen automatisch deine Motorradverwendungslisten aktuell zu halten.",
   "source": "@site/docs/connect-ebay.md",
   "slug": "/connect-ebay",
-  "permalink": "/wranglab-documentation/connect-ebay",
+  "permalink": "/connect-ebay",
   "version": "current",
   "lastUpdatedAt": 1612253745,
   "sidebar_label": "eBay Account verbinden",
   "sidebar": "docs",
   "previous": {
     "title": "Einleitung",
-    "permalink": "/wranglab-documentation/"
+    "permalink": "/"
   },
   "next": {
     "title": "Abonnement",
-    "permalink": "/wranglab-documentation/subscription"
+    "permalink": "/subscription"
   }
 }

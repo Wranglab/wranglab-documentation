@@ -6,17 +6,17 @@
   "description": "API Zugang",
   "source": "@site/docs/api.md",
   "slug": "/api",
-  "permalink": "/wranglab-documentation/api",
+  "permalink": "/api",
   "version": "current",
   "lastUpdatedAt": 1612253745,
   "sidebar_label": "Einleitung",
   "sidebar": "docs",
   "previous": {
     "title": "Abonnement",
-    "permalink": "/wranglab-documentation/subscription"
+    "permalink": "/subscription"
   },
   "next": {
     "title": "Artikeldaten hochladen",
-    "permalink": "/wranglab-documentation/daten_upload"
+    "permalink": "/daten_upload"
   }
 }

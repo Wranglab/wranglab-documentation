@@ -3,43 +3,43 @@ import React from 'react';
 import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
-  path: '/wranglab-documentation/',
-  component: ComponentCreator('/wranglab-documentation/','6f3'),
+  path: '/',
+  component: ComponentCreator('/','b60'),
   
   routes: [
 {
-  path: '/wranglab-documentation/',
-  component: ComponentCreator('/wranglab-documentation/','f79'),
+  path: '/',
+  component: ComponentCreator('/','891'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/api',
-  component: ComponentCreator('/wranglab-documentation/api','28d'),
+  path: '/api',
+  component: ComponentCreator('/api','689'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/connect-ebay',
-  component: ComponentCreator('/wranglab-documentation/connect-ebay','6e7'),
+  path: '/connect-ebay',
+  component: ComponentCreator('/connect-ebay','f08'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/daten_upload',
-  component: ComponentCreator('/wranglab-documentation/daten_upload','95b'),
+  path: '/daten_upload',
+  component: ComponentCreator('/daten_upload','058'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/download_epid',
-  component: ComponentCreator('/wranglab-documentation/download_epid','1d3'),
+  path: '/download_epid',
+  component: ComponentCreator('/download_epid','d94'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/get_progress',
-  component: ComponentCreator('/wranglab-documentation/get_progress','7c9'),
+  path: '/get_progress',
+  component: ComponentCreator('/get_progress','417'),
   exact: true,
 },
 {
-  path: '/wranglab-documentation/subscription',
-  component: ComponentCreator('/wranglab-documentation/subscription','d10'),
+  path: '/subscription',
+  component: ComponentCreator('/subscription','018'),
   exact: true,
 },
 ]

@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/wranglab-documentation/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/wranglab-documentation/",
+          "path": "/",
           "mainDocId": "einleitung",
           "docs": [
             {
               "id": "api",
-              "path": "/wranglab-documentation/api",
+              "path": "/api",
               "sidebar": "docs"
             },
             {
               "id": "connect-ebay",
-              "path": "/wranglab-documentation/connect-ebay",
+              "path": "/connect-ebay",
               "sidebar": "docs"
             },
             {
               "id": "daten_upload",
-              "path": "/wranglab-documentation/daten_upload",
+              "path": "/daten_upload",
               "sidebar": "docs"
             },
             {
               "id": "download_epid",
-              "path": "/wranglab-documentation/download_epid",
+              "path": "/download_epid",
               "sidebar": "docs"
             },
             {
               "id": "einleitung",
-              "path": "/wranglab-documentation/",
+              "path": "/",
               "sidebar": "docs"
             },
             {
               "id": "get_progress",
-              "path": "/wranglab-documentation/get_progress",
+              "path": "/get_progress",
               "sidebar": "docs"
             },
             {
               "id": "subscription",
-              "path": "/wranglab-documentation/subscription",
+              "path": "/subscription",
               "sidebar": "docs"
             }
           ]

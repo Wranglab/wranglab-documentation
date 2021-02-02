@@ -2,7 +2,7 @@ export default {
   "title": "Wranglab",
   "tagline": "Dokumentation",
   "url": "https://Wranglab.github.io",
-  "baseUrl": "/wranglab-documentation/",
+  "baseUrl": "/",
   "organizationName": "Wranglab",
   "projectName": "wranglab-documentation",
   "scripts": [
