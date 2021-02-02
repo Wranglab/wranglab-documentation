@@ -2,8 +2,9 @@ module.exports={
   "title": "Wranglab",
   "tagline": "Dokumentation",
   "url": "https://Wranglab.github.io",
-  "baseUrl": "/wranglab-documentation/",
+  "baseUrl": "/",
   "organizationName": "Wranglab",
+  "cname": 'help.wranglab.com',
   "projectName": "wranglab-documentation",
   "scripts": [
     "https://buttons.github.io/buttons.js"
