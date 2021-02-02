@@ -1,0 +1,22 @@
+{
+  "unversionedId": "get_progress",
+  "id": "get_progress",
+  "isDocsHomePage": false,
+  "title": "Fortschritt abfragen",
+  "description": "API Endpoint",
+  "source": "@site/docs/get_progress.md",
+  "slug": "/get_progress",
+  "permalink": "/get_progress",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Fortschritt abfragen",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Artikeldaten hochladen",
+    "permalink": "/daten_upload"
+  },
+  "next": {
+    "title": "EPIDs runterladen",
+    "permalink": "/download_epid"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "connect-ebay",
+  "id": "connect-ebay",
+  "isDocsHomePage": false,
+  "title": "eBay Account verbinden",
+  "description": "eBay Intergration einrichten",
+  "source": "@site/../docs/connect-ebay.md",
+  "slug": "/connect-ebay",
+  "permalink": "/docs/connect-ebay",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "eBay Account verbinden",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Einleitung",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Artikeldaten hochladen",
+    "permalink": "/docs/artikeldaten-hochladen"
+  }
+}

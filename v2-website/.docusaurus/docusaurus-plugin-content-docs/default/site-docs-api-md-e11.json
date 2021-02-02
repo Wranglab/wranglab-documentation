@@ -1,0 +1,19 @@
+{
+  "unversionedId": "api",
+  "id": "api",
+  "isDocsHomePage": false,
+  "title": "Einleitung",
+  "description": "API Zugang",
+  "source": "@site/../docs/api.md",
+  "slug": "/api",
+  "permalink": "/docs/api",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Einleitung",
+  "sidebar": "docs-other",
+  "next": {
+    "title": "Artikeldaten hochladen",
+    "permalink": "/docs/daten_upload"
+  }
+}

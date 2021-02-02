@@ -1,0 +1,18 @@
+{
+  "unversionedId": "einleitung",
+  "id": "einleitung",
+  "isDocsHomePage": false,
+  "title": "Einleitung",
+  "description": "Einloggen",
+  "source": "@site/docs/einleitung.md",
+  "slug": "/",
+  "permalink": "/",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Einleitung",
+  "sidebar": "docs",
+  "next": {
+    "title": "eBay Account verbinden",
+    "permalink": "/connect-ebay"
+  }
+}

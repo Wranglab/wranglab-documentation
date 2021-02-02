@@ -8,10 +8,10 @@ sidebar_label: Artikeldaten hochladen
 
 ### Datei Format
 
-**Dateiformat**: CSV <br>
-**Seperator**: ; <br>
-**Encoding**: UTF-8 <br>
-**Spalte A**: Eine eindeutige ID für das Rückspielen ins ERP-System. <br>
+**Dateiformat**: CSV <br/>
+**Seperator**: ; <br/>
+**Encoding**: UTF-8 <br/>
+**Spalte A**: Eine eindeutige ID für das Rückspielen ins ERP-System. <br/>
 **Spalte B**: Produkt Information (Motorradmodel, Baujahr etc.).
 
 **Wichtig**: Die Spaltennamen müssen exakt wie im Beispiel benannt werden.
@@ -35,13 +35,13 @@ Spalte A „articel_number; Spalte B „input_text“. Außerdem muss die Datei 
 
 ### CSV Datei hochladen
 
-![upload-file](assets/upload-file.png)
+![upload-file](../static/assets/upload-file.png)
 
-![upload-file-2](assets/upload-file-2.png)
+![upload-file-2](../static/assets/upload-file-2.png)
 
 ### Ergebnis anzeigen
 
-![upload-file-result](assets/upload-file-result.png)
+![upload-file-result](../static/assets/upload-file-result.png)
 
 ## Artikeldaten aus eBay importieren
 
@@ -50,15 +50,15 @@ Spalte A „articel_number; Spalte B „input_text“. Außerdem muss die Datei 
 ### eBay Import starten
 
 Klicke den Button \*EBAY IMPORT\*\*
-![start-ebay-import-1](assets/start-ebay-import-1.png)
+![start-ebay-import-1](../static/assets/start-ebay-import-1.png)
 
 Wenn dein eBay Account bereitsverknüft ist kannst nun im nächsten Fenster den Import starten.
 Dann werden alle deine eBay Artikeltitel von deinem eBay Account in Wranglab importiert.
 Das kann bis zu 1h dauern.
-![start-ebay-import-2](assets/start-ebay-import-2.png)
+![start-ebay-import-2](../static/assets/start-ebay-import-2.png)
 
-![start-ebay-import-3](assets/start-ebay-import-3.png)
+![start-ebay-import-3](../static/assets/start-ebay-import-3.png)
 
 Nach dem erfolgreichen Import werden die eBay Artikeldatei in der Übersicht angezeigt.
 
-![start-ebay-import-4](assets/start-ebay-import-4.png)
+![start-ebay-import-4](../static/assets/start-ebay-import-4.png)

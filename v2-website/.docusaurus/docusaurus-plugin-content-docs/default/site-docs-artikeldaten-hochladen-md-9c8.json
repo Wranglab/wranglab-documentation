@@ -1,0 +1,13 @@
+{
+  "unversionedId": "artikeldaten-hochladen",
+  "id": "artikeldaten-hochladen",
+  "isDocsHomePage": false,
+  "title": "Artikeldaten hochladen",
+  "description": "Produkte per CSV Datei hochladen",
+  "source": "@site/docs/artikeldaten-hochladen.md",
+  "slug": "/artikeldaten-hochladen",
+  "permalink": "/artikeldaten-hochladen",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Artikeldaten hochladen"
+}

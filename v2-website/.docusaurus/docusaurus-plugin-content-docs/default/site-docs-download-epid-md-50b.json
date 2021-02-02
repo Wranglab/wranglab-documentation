@@ -1,0 +1,19 @@
+{
+  "unversionedId": "download_epid",
+  "id": "download_epid",
+  "isDocsHomePage": false,
+  "title": "EPIDs runterladen",
+  "description": "Abfrage aller erzeugten EPID Datenpakete",
+  "source": "@site/../docs/download_epid.md",
+  "slug": "/download_epid",
+  "permalink": "/docs/download_epid",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "EPIDs runterladen",
+  "sidebar": "docs-other",
+  "previous": {
+    "title": "Fortschritt abfragen",
+    "permalink": "/docs/get_progress"
+  }
+}

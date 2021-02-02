@@ -1,0 +1,6 @@
+{
+  "docs": {
+    "Motorrad Web App": ["einleitung", "connect-ebay", "subscription"],
+    "API Dokumentation": ["api", "daten_upload", "get_progress", "download_epid"]
+  }
+}

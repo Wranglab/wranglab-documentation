@@ -1,0 +1,22 @@
+{
+  "unversionedId": "subscription",
+  "id": "subscription",
+  "isDocsHomePage": false,
+  "title": "Abonnement",
+  "description": "Um Wranglab.io auch nach der kostenlosen Testphase weiter nutzen zu können, ist es notwendig ein Abonnement abzuschlie&szlig;en.",
+  "source": "@site/docs/subscription.md",
+  "slug": "/subscription",
+  "permalink": "/subscription",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Abonnement",
+  "sidebar": "docs",
+  "previous": {
+    "title": "eBay Account verbinden",
+    "permalink": "/connect-ebay"
+  },
+  "next": {
+    "title": "Einleitung",
+    "permalink": "/api"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "artikeldaten-hochladen",
+  "id": "artikeldaten-hochladen",
+  "isDocsHomePage": false,
+  "title": "Artikeldaten hochladen",
+  "description": "Produkte per CSV Datei hochladen",
+  "source": "@site/../docs/artikeldaten-hochladen.md",
+  "slug": "/artikeldaten-hochladen",
+  "permalink": "/docs/artikeldaten-hochladen",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Artikeldaten hochladen",
+  "sidebar": "docs",
+  "previous": {
+    "title": "eBay Account verbinden",
+    "permalink": "/docs/connect-ebay"
+  },
+  "next": {
+    "title": "EPIDS erzeugen",
+    "permalink": "/docs/epids-erzeugen"
+  }
+}

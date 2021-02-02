@@ -1,0 +1,61 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "einleitung",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/api",
+              "sidebar": "docs"
+            },
+            {
+              "id": "artikeldaten-hochladen",
+              "path": "/artikeldaten-hochladen"
+            },
+            {
+              "id": "connect-ebay",
+              "path": "/connect-ebay",
+              "sidebar": "docs"
+            },
+            {
+              "id": "daten_upload",
+              "path": "/daten_upload",
+              "sidebar": "docs"
+            },
+            {
+              "id": "download_epid",
+              "path": "/download_epid",
+              "sidebar": "docs"
+            },
+            {
+              "id": "einleitung",
+              "path": "/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "epids-erzeugen",
+              "path": "/epids-erzeugen"
+            },
+            {
+              "id": "get_progress",
+              "path": "/get_progress",
+              "sidebar": "docs"
+            },
+            {
+              "id": "subscription",
+              "path": "/subscription",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
