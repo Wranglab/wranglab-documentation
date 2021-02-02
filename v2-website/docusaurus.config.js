@@ -4,7 +4,6 @@ module.exports={
   "url": "https://Wranglab.github.io",
   "baseUrl": "/",
   "organizationName": "Wranglab",
-  "cname": 'help.wranglab.com',
   "projectName": "wranglab-documentation",
   "scripts": [
     "https://buttons.github.io/buttons.js"
