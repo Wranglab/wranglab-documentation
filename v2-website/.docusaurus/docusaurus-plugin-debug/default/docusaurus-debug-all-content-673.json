@@ -1,0 +1,234 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/Alexander/Documents/Coding/Freelance_Projects/wranglab/wranglab-documentation/v2-website/sidebars.json",
+          "docsDirPath": "/Users/Alexander/Documents/Coding/Freelance_Projects/wranglab/wranglab-documentation/v2-website/docs",
+          "docsDirPathLocalized": "/Users/Alexander/Documents/Coding/Freelance_Projects/wranglab/wranglab-documentation/v2-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "einleitung",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Motorrad Web App",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "einleitung"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "connect-ebay"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "subscription"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "API Dokumentation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "daten_upload"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "get_progress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "download_epid"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/api": "docs",
+            "/connect-ebay": "docs",
+            "/daten_upload": "docs",
+            "/download_epid": "docs",
+            "/": "docs",
+            "/get_progress": "docs",
+            "/subscription": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "api",
+              "id": "api",
+              "isDocsHomePage": false,
+              "title": "Einleitung",
+              "description": "API Zugang",
+              "source": "@site/docs/api.md",
+              "slug": "/api",
+              "permalink": "/api",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "Einleitung",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Abonnement",
+                "permalink": "/subscription"
+              },
+              "next": {
+                "title": "Artikeldaten hochladen",
+                "permalink": "/daten_upload"
+              }
+            },
+            {
+              "unversionedId": "connect-ebay",
+              "id": "connect-ebay",
+              "isDocsHomePage": false,
+              "title": "eBay Account verbinden",
+              "description": "Wranglab bietet dir die Möglichkeit, vollkommen automatisch deine Motorradverwendungslisten aktuell zu halten.",
+              "source": "@site/docs/connect-ebay.md",
+              "slug": "/connect-ebay",
+              "permalink": "/connect-ebay",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "eBay Account verbinden",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Einleitung",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Abonnement",
+                "permalink": "/subscription"
+              }
+            },
+            {
+              "unversionedId": "daten_upload",
+              "id": "daten_upload",
+              "isDocsHomePage": false,
+              "title": "Artikeldaten hochladen",
+              "description": "Das Hochladen der Daten löst automatisch den Prozess des EPID erzeugen aus.",
+              "source": "@site/docs/daten_upload.md",
+              "slug": "/daten_upload",
+              "permalink": "/daten_upload",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "Artikeldaten hochladen",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Einleitung",
+                "permalink": "/api"
+              },
+              "next": {
+                "title": "Fortschritt abfragen",
+                "permalink": "/get_progress"
+              }
+            },
+            {
+              "unversionedId": "download_epid",
+              "id": "download_epid",
+              "isDocsHomePage": false,
+              "title": "EPIDs runterladen",
+              "description": "Abfrage aller erzeugten EPID Datenpakete",
+              "source": "@site/docs/download_epid.md",
+              "slug": "/download_epid",
+              "permalink": "/download_epid",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "EPIDs runterladen",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Fortschritt abfragen",
+                "permalink": "/get_progress"
+              }
+            },
+            {
+              "unversionedId": "einleitung",
+              "id": "einleitung",
+              "isDocsHomePage": false,
+              "title": "Einleitung",
+              "description": "Einloggen",
+              "source": "@site/docs/einleitung.md",
+              "slug": "/",
+              "permalink": "/",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "Einleitung",
+              "sidebar": "docs",
+              "next": {
+                "title": "eBay Account verbinden",
+                "permalink": "/connect-ebay"
+              }
+            },
+            {
+              "unversionedId": "get_progress",
+              "id": "get_progress",
+              "isDocsHomePage": false,
+              "title": "Fortschritt abfragen",
+              "description": "API Endpoint",
+              "source": "@site/docs/get_progress.md",
+              "slug": "/get_progress",
+              "permalink": "/get_progress",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "Fortschritt abfragen",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Artikeldaten hochladen",
+                "permalink": "/daten_upload"
+              },
+              "next": {
+                "title": "EPIDs runterladen",
+                "permalink": "/download_epid"
+              }
+            },
+            {
+              "unversionedId": "subscription",
+              "id": "subscription",
+              "isDocsHomePage": false,
+              "title": "Abonnement",
+              "description": "Um Wranglab.io auch nach der kostenlosen Testphase weiter nutzen zu können, ist es notwendig ein Abonnement abzuschlie&szlig;en.",
+              "source": "@site/docs/subscription.md",
+              "slug": "/subscription",
+              "permalink": "/subscription",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "sidebar_label": "Abonnement",
+              "sidebar": "docs",
+              "previous": {
+                "title": "eBay Account verbinden",
+                "permalink": "/connect-ebay"
+              },
+              "next": {
+                "title": "Einleitung",
+                "permalink": "/api"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

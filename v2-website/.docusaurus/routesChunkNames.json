@@ -1,34 +1,56 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/-b60": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-891": {
-    "component": "17896441",
-    "content": "61f2eac5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---61-f-1e9"
   },
   "/api-689": {
-    "component": "17896441",
-    "content": "5fbc5cf1"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---api-5-fb-585"
   },
   "/connect-ebay-f08": {
-    "component": "17896441",
-    "content": "2ad91f22"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---connect-ebay-2-ad-8c1"
   },
   "/daten_upload-058": {
-    "component": "17896441",
-    "content": "f74a1dae"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---daten-uploadf-74-26b"
   },
   "/download_epid-d94": {
-    "component": "17896441",
-    "content": "50ab7e8c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---download-epid-50-a-4ff"
   },
   "/get_progress-417": {
-    "component": "17896441",
-    "content": "a0fea8b5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---get-progressa-0-f-7a9"
   },
   "/subscription-018": {
-    "component": "17896441",
-    "content": "84b55735"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---subscription-84-b-fce"
   }
 }
